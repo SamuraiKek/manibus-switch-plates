@@ -1,7 +1,7 @@
 # manibus-switch-plates
 Manibus keyboard plate files for those of you curious to try out the keyboard layout.
 
-![Plates](images/plates-image.png)
+![Plates](images/plates-image.PNG)
 
 <h2>Instructions:</h2>
 
