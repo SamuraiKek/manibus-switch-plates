@@ -1,6 +1,8 @@
 # manibus-switch-plates
 Manibus keyboard plate files for those of you curious to try out the keyboard layout.
 
+[Plates](plates-image.png)
+
 <h2>Instructions:</h2>
 
 - Make sure to print at 100% infill and let the plates cool before removing from the printing bed, otherwise they will end up distorted when you pull them off.
